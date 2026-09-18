@@ -1,4 +1,4 @@
-# Flashy - German Flashcards App
+# German Flashcards App
 
 A desktop application built with Python and Tkinter designed to assist in learning German vocabulary. The app displays flashcards with dynamic text rendering, tracks words you have mastered, and automatically saves your learning progress locally using Pandas.
 
